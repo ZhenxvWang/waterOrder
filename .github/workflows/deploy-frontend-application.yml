@@ -2,7 +2,7 @@ name: deploy frontend application
 on: 
   push:
     branches:
-      - Acrion-front
+      - Action-front
 
 jobs:
   deploy-app:
