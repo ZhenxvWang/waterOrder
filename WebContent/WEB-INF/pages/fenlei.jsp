@@ -12,7 +12,6 @@
   <link rel="stylesheet" href="${pageContext.request.contextPath }/css/index.css">
   <title>分类</title>
   <style>
-    
     h1{
       text-align: center;
       font-size: 24px;
